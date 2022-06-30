@@ -1,1 +1,1 @@
-# Meow_diary_server
+# Meow-diary-server
